@@ -1,4 +1,7 @@
 # vue-moment-filter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/vue-moment-filter.svg)](https://greenkeeper.io/)
+
 Vue moment filter
 
 ### Install
